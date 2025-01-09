@@ -1,60 +1,65 @@
 [
   {
-    "listing": "/notes/FastAI/index.html",
+    "listing": "/notes/DeepLearning/index.html",
     "items": [
-      "/notes/FastAI/FastAI Lecture 03.html",
-      "/notes/FastAI/FastAI Setup.html",
-      "/notes/FastAI/FastAI Snippets.html"
+      "/notes/DeepLearning/FastAI Lecture 03.html",
+      "/notes/DeepLearning/FastAI Setup.html",
+      "/notes/DeepLearning/FastAI Snippets.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/blogs/FastAI/index.html"
+      "/blogs/FastAI/fastai_journey_v0.html"
     ]
   },
   {
-    "listing": "/blogs/FastAI/index.html",
+    "listing": "/blogs/FastAI/fastai_journey_v0.html",
     "items": []
   },
   {
     "listing": "/bob.html",
     "items": [
-      "/blogs/FastAI/index.html",
-      "/notes/FastAI/FastAI Lecture 03.html",
-      "/notes/FastAI/index.html",
-      "/notes/FastAI/FastAI Setup.html",
-      "/notes/FastAI/FastAI Snippets.html",
-      "/notes/Utility/HuggingFace.html",
-      "/notes/Networking.html",
+      "/notes/CS/index.html",
+      "/notes/DeepLearning/index.html",
+      "/notes/Resources/Deep Learning Resources.html",
+      "/blogs/FastAI/fastai_journey_v0.html",
+      "/notes/DeepLearning/FastAI Lecture 03.html",
+      "/notes/DeepLearning/FastAI Setup.html",
+      "/notes/DeepLearning/FastAI Snippets.html",
       "/notes/Utility/JupyterNotebook.html",
       "/notes/Utility/Kaggle.html",
-      "/notes/Matplotlib.html",
+      "/notes/Utility/Matplotlib.html",
+      "/notes/CS/Networking.html",
       "/notes/index.html",
       "/notes/Utility/Package Manager and Virtual Environments.html",
-      "/notes/PyTorch.html",
-      "/notes/Resources/Deep Learning Resources.html",
+      "/notes/Utility/PyTorch.html",
       "/notes/Utility/index.html",
       "/readme.html"
     ]
   },
   {
+    "listing": "/notes/CS/index.html",
+    "items": [
+      "/notes/CS/Networking.html"
+    ]
+  },
+  {
     "listing": "/notes/index.html",
     "items": [
-      "/notes/FastAI/index.html",
-      "/notes/Networking.html",
-      "/notes/Matplotlib.html",
-      "/notes/PyTorch.html",
+      "/notes/CS/index.html",
+      "/notes/DeepLearning/index.html",
       "/notes/Utility/index.html"
     ]
   },
   {
     "listing": "/notes/Utility/index.html",
     "items": [
-      "/notes/Utility/HuggingFace.html",
       "/notes/Utility/JupyterNotebook.html",
       "/notes/Utility/Kaggle.html",
-      "/notes/Utility/Package Manager and Virtual Environments.html"
+      "/notes/Utility/Matplotlib.html",
+      "/notes/Utility/Package Manager and Virtual Environments.html",
+      "/notes/Utility/PyTorch.html"
     ]
   }
 ]
