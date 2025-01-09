@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Agastya Patel"
 image: profile.jpg
 sidebar: false
 about:
@@ -9,25 +9,62 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/4gastyaPatel
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/4gastyaPatel
     - icon: github
       text: Github
       href: https://github.com/AgastyaPatel
-    - text: Hugging Face
-      href: https://huggingface.co/AgastyaPatel
-    - text: kaggle
-      href: https://kaggle.com/AgastyaPatel
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/4gastyaPatel
+toc: true 
+---
+
+# I'm Agastya!
+
+Passionate developer and AI enthusiast who loves building practical solutions to real-world problems. You can find me actively sharing my learning journey and progress on [Twitter/X](https://twitter.com/4gastyaPatel).
+
+- I'm currently building [Chatleads.pro](https://chatleads.pro) - a tool that helps businesses deploy custom customer service chatbots quickly by integrating with google docs, notion, and various other knowledge base sources  .
+- Currently pursuing Masters in IT with AI specialization at the University of Western Australia
+- Open to exciting work opportunities in the AI/ML space
+
+
+
+## Stack
+#### Languages
+Python • C++ • SQL • PostgreSQL • Google Cloud Platform
+
+#### Frameworks & Libraries
+PyTorch • Django • FastAPI • NumPy • PyQt • FastAI
+
+## Professional Experience
+#### Python Developer @ Viga Entertainment Technology
+*April 2024 - Present*
+
+- **AI Workflow Management:** Handle deployments for AI workflow containers
+- **Cloud Integration:** Integrate and manage cloud services for AI operations
+- **Desktop Application Development:** Develop and maintain desktop applications
+- **Build Cycle Management:** Maintain and manage build cycles for products
+- Ensure continuous integration of desktop products with backend systems
+- Design and develop new features for our products
+
+#### Technical Artist/Developer @ Viga Entertainment Technology
+*September 2023 - March 2024*
+
+- Created custom IP to improve efficiency of 3D workflows
+- Developed innovative solutions to complex problems and conducted team training
+- Integrated AI services into 3D workflows, enabling new creative possibilities
+- Implemented custom solutions for workflow optimization
+
+#### Technical Artist/Developer Intern @ Viga Entertainment Technology
+*June 2023 - August 2023*
+
+- Developed Text-to-Animation Pipeline streaming in Omniverse
+- Gained hands-on experience with 3D animation workflows
+- Collaborated with creative teams to implement technical solutions
+
+## My Journey
+
+Starting as a self-taught "organic engineer," I've always believed in learning by doing. This hands-on approach has helped me develop a deep understanding of software development and AI technologies. I'm constantly exploring new technologies and sharing my insights with the community.
 
 ---
 
-Hi, I'm Agastya. Welcome to my blogs and project showcase.
-I'm currently working as Technical Artist and Developer. My responsibility involves developing custom in house solutions also whilst leveraging power of open source models for the creative team. I'm currently working on shot tracking product with the cloud team.
-
-My interst in deep learning spiked when I started using open source models which led me into exploring them. I believe in constant learning and hence this is a good platform for sharing what I'm currently working/learning about.
-
-**Tech Stack**\
-- Python, Javascript, SQL, HTML -\
-- Framework/libs FastAI, PyTorch, PyQT, Django, Numpy, Pandas  -\
-- DCC: Blender, Unreal, Houdini, Maya, DCC Based APIs - 
+*I'm always excited to connect with fellow developers and collaborate on interesting projects. Feel free to reach out through any of the social links above!* 

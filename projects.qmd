@@ -1,17 +1,17 @@
 ---
 title: "Projects"
 author: "Agastya Patel"
-date-modified: today
 categories: [Projects]
 image: "image.png"
 sidebar: false
 title-block-banner: false
 page-layout: full
 ---
-
 ### FastAI Projects
-These are the projects that I did during my FastAI journey. Only including the self-implemented notebooks/deployments/projects.
-{{< include blogs/FastAI/FastAI-projects.qmd >}}
+Here's a list of projects I've worked on during my FastAI journey.
+Projects include recomendations systems, image classification, and more.
+[View FastAI Projects](blogs/FastAI/FastAI-projects.qmd)
+
 
 ### Web Projects
 These are the projects which I created in my web dev learning.

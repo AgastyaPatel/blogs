@@ -3,4 +3,4 @@ listing:
   type: table
   sort-ui: false
   filter-ui: false
-  max-description-length: 25
+  max-description-length: 50

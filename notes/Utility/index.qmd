@@ -1,9 +1,7 @@
 ---
 title: "Utility"
 author: "Agastya Patel"
-date: "2023-12-29"
-date-modified: today
-categories: [notes, FastAI]
+categories: [notes]
 metadata-files: ["_listing_meta.yml"]
 listing:
   contents: 
@@ -12,4 +10,4 @@ listing:
    - "/*.md"
 ---
 
-This folder contains all the small utility snippets which you'd be using in daily operations.
+This folder contains all the libs, frameworks, and utility snippets which you'd be using in daily operations.

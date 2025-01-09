@@ -1,24 +1,24 @@
 ---
-title: Resources 
+title: Deep Learning Resources
 ---
-# Books
+## Books
 - [ ] FastBook 
 - [ ] Python Data Science Handbook - By Jake VanderPlas
 - [ ] Python for Data Analysis - By Wes McKinney | Book to learn about data handling with standard ML Libraries
 
-# Guides
+## Guides
 - [ ] https://www.interviewbit.com/system-design-interview-questions/amp/
 - [ ] https://www.promptingguide.ai/ Prompt Engineering
 - [ ] https://medium.com/marvelous-mlops/mlops-roadmap-2024-ff4216b8bc62 Mooc 
 - [ ] [The Missing Semester of Your CS Education (mit.edu)](https://missing.csail.mit.edu/) MIT Missing CS Semester + Lectures: Teaches how to use system utility tools like git, vim, other useful untaught methods for Machine Learning. 
 - [ ] https://hepsoftwarefoundation.org/training/center.html Multiple Advance Tutorial/Guide Series. Recommended
 
-# Lectures
+## Lectures
 - [ ] Cornell Machine Learning for Intelligent Systems 2018
       36 Lectures and different Assignments
 https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
 
-# References
+## References
 - [x] Commands : [List of Command Line Commands | Codecademy](https://www.codecademy.com/article/command-line-commands)
 - [x] Bash vs Windows : [Learn the Command Line | Codecademy](https://www.codecademy.com/courses/learn-the-command-line/articles/windows-command-line)
 - [x] Virtual Environment : [Python: Modules | Codecademy](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-intro-to-programming/tracks/cscj-22-basic-python-data-structures-and-objects/modules/cscj-22-python-modules/articles/learn-python-pipenv)

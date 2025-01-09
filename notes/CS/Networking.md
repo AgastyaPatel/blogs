@@ -1,4 +1,5 @@
-# Internet
+# Networking
+## Internet
 - Global network of billions of electronic devices which acts as servers or clients.
 - **Servers** are machines which provide services to other machines.
 - **Clients** are machines used to connect to those services.

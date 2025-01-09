@@ -9,14 +9,16 @@ website:
     left:
       - notes/index.qmd
       - projects.qmd
+      - index.qmd
     right:
-      - about.qmd
+      - text: About Me
+        href: about.qmd
       - icon: github
         href: https://github.com/AgastyaPatel
       - icon: twitter
         href: https://twitter.com/4gastyaPatel
       - icon: linkedin
-        href: https://twitter.com/in/4gastyaPatel
+        href: https://linkedin.com/4gastyaPatel
 
   page-footer: 
     border: true
@@ -30,21 +32,22 @@ website:
   sidebar:
       title: 'Notes'
       pinned: false
-      collapse-level: 3
+      collapse-level: 2
       style: docked
       search: true
-      # contents: notes/**
       contents: 
         - section: "Notes"
           contents: notes/**
-
+        - section: "Blogs"
+          contents: blogs/**
 format:
   html:
     css: styles.css
     toc: true
     theme:
       light: cosmo
-      dark: [cosmo, theme-dark.scss]
+      # dark: [cosmo, theme-dark.scss]
+    mainfont: "Roboto Mono"
       
-execute:
+execute:  
   freeze: auto
