@@ -8,17 +8,21 @@ website:
   navbar:
     left:
       - notes/index.qmd
-      - projects.qmd
       - index.qmd
+      - projects.qmd
+      - text: "X/twitter: @4gastyaPatel"
+        aria-label: "X (Twitter)"
+        href: https://twitter.com/4gastyaPatel
+        target: _blank
     right:
       - text: About Me
         href: about.qmd
       - icon: github
         href: https://github.com/AgastyaPatel
-      - icon: twitter
-        href: https://twitter.com/4gastyaPatel
+        target: _blank
       - icon: linkedin
-        href: https://linkedin.com/4gastyaPatel
+        href: https://www.linkedin.com/in/4gastyapatel/
+        target: _blank
 
   page-footer: 
     border: true

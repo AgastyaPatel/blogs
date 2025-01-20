@@ -1,0 +1,12 @@
+---
+title: "Engineering"
+categories: [notes, cloud, infrastructure, devops, security]
+metadata-files: ["_listing_meta.yml"]
+listing:
+  contents: 
+   - "/*.qmd"
+   - "/*/index.qmd"
+   - "/*.md"
+---
+
+General notes on engineering topics

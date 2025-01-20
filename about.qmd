@@ -1,35 +1,26 @@
 ---
-title: "Agastya Patel"
+title: "About Me"
 image: profile.jpg
 sidebar: false
-about:
-  template: trestles
-  image-shape: round
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/4gastyaPatel
-    - icon: github
-      text: Github
-      href: https://github.com/AgastyaPatel
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/4gastyaPatel
 toc: true 
 ---
 
-# I'm Agastya!
+_X/twitter:_ [@4gastyaPatel](https://twitter.com/4gastyaPatel){target="_blank"}
+_Github:_ [AgastyaPatel](https://github.com/AgastyaPatel){target="_blank"}
+_LinkedIn:_ [4gastyaPatel](https://www.linkedin.com/in/4gastyaPatel/){target="_blank"}
 
-Passionate developer and AI enthusiast who loves building practical solutions to real-world problems. You can find me actively sharing my learning journey and progress on [Twitter/X](https://twitter.com/4gastyaPatel).
+## I'm Agastya Patel!
 
-- I'm currently building [Chatleads.pro](https://chatleads.pro) - a tool that helps businesses deploy custom customer service chatbots quickly by integrating with google docs, notion, and various other knowledge base sources  .
-- Currently pursuing Masters in IT with AI specialization at the University of Western Australia
+Passionate developer and AI enthusiast who loves building practical solutions to real-world problems. You can find me actively sharing my learning journey and progress on [Twitter/X **@4gastyaPatel**](https://twitter.com/4gastyaPatel).
+
+- I'm currently building [Chatleads.pro](https://chatleads.pro) - a tool that helps businesses train and deploy custom customer service chatbots quickly by integrating with google docs, notion, and various other knowledge base sources.
+- Currently pursuing Masters in IT with AI specialization at the **University of Western Australia**
 - Open to exciting work opportunities in the AI/ML space
 
 
 
 ## Stack
-#### Languages
+#### Languages/Tools
 Python • C++ • SQL • PostgreSQL • Google Cloud Platform
 
 #### Frameworks & Libraries
@@ -58,12 +49,17 @@ PyTorch • Django • FastAPI • NumPy • PyQt • FastAI
 *June 2023 - August 2023*
 
 - Developed Text-to-Animation Pipeline streaming in Omniverse
-- Gained hands-on experience with 3D animation workflows
+- Gained hands-on experience with automation of 3D animation workflows
 - Collaborated with creative teams to implement technical solutions
 
-## My Journey
+## Journey
 
-Starting as a self-taught "organic engineer," I've always believed in learning by doing. This hands-on approach has helped me develop a deep understanding of software development and AI technologies. I'm constantly exploring new technologies and sharing my insights with the community.
+Starting as a self-taught "organic engineer," I've always believed in learning by doing & I started my tech journey by automating 3D workflows which led to a lots of interesting projects. This hands-on approach has helped me develop a deep understanding of software development and AI technologies. I'm constantly exploring new technologies and sharing my insights with the community.
+
+### Education
+
+- Masters in IT with AI specialization at the University of Western Australia _Class of 2027_
+- Bachelors in Science (Media, Graphics, Animation) at YCMOU, India _Class of 2023_
 
 ---
 
