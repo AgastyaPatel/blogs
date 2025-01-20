@@ -2,82 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/readme.html</loc>
-    <lastmod>2025-01-09T12:03:56.110Z</lastmod>
+    <lastmod>2025-01-20T06:33:58.835Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/Utility/PyTorch.html</loc>
-    <lastmod>2025-01-09T12:03:55.358Z</lastmod>
+    <lastmod>2025-01-20T06:33:58.070Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/Utility/Matplotlib.html</loc>
-    <lastmod>2025-01-09T12:03:54.168Z</lastmod>
+    <lastmod>2025-01-20T06:33:57.146Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/Utility/JupyterNotebook.html</loc>
-    <lastmod>2025-01-09T12:03:52.822Z</lastmod>
+    <lastmod>2025-01-20T06:33:56.039Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/Resources/Deep Learning Resources.html</loc>
-    <lastmod>2025-01-09T12:03:51.731Z</lastmod>
+    <lastmod>2025-01-20T06:33:55.191Z</lastmod>
   </url>
   <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/notes/DeepLearning/index.html</loc>
-    <lastmod>2025-01-09T12:03:50.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/notes/DeepLearning/FastAI Setup.html</loc>
-    <lastmod>2025-01-09T12:03:49.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/notes/CS/Networking.html</loc>
-    <lastmod>2025-01-09T12:03:48.422Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/index.html</loc>
-    <lastmod>2025-01-09T12:03:47.130Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/about.html</loc>
-    <lastmod>2025-01-09T12:03:44.572Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/blogs/FastAI/fastai_journey_v0.html</loc>
-    <lastmod>2025-01-09T12:03:45.542Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/bob.html</loc>
-    <lastmod>2025-01-09T12:03:46.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/notes/CS/index.html</loc>
-    <lastmod>2025-01-09T12:03:47.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://AgastyaPatel.github.io/Blogs/notes/DeepLearning/FastAI Lecture 03.html</loc>
-    <lastmod>2025-01-09T12:03:49.230Z</lastmod>
+    <loc>https://AgastyaPatel.github.io/Blogs/notes/Engineering/index.html</loc>
+    <lastmod>2025-01-20T06:33:54.381Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/DeepLearning/FastAI Snippets.html</loc>
-    <lastmod>2025-01-09T12:03:50.374Z</lastmod>
+    <lastmod>2025-01-20T06:33:53.649Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/notes/DeepLearning/FastAI Lecture 03.html</loc>
+    <lastmod>2025-01-20T06:33:52.642Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/notes/CS/index.html</loc>
+    <lastmod>2025-01-20T06:33:51.300Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/bob.html</loc>
+    <lastmod>2025-01-20T06:33:50.491Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/blogs/FastAI/fastai_journey_v0.html</loc>
+    <lastmod>2025-01-20T06:33:49.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/about.html</loc>
+    <lastmod>2025-01-20T06:33:48.706Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/index.html</loc>
+    <lastmod>2025-01-20T06:33:50.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/notes/CS/Networking.html</loc>
+    <lastmod>2025-01-20T06:33:52.001Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/notes/DeepLearning/FastAI Setup.html</loc>
+    <lastmod>2025-01-20T06:33:53.122Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AgastyaPatel.github.io/Blogs/notes/DeepLearning/index.html</loc>
+    <lastmod>2025-01-20T06:33:54.035Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/index.html</loc>
-    <lastmod>2025-01-09T12:03:51.287Z</lastmod>
+    <lastmod>2025-01-20T06:33:54.777Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/Utility/index.html</loc>
-    <lastmod>2025-01-09T12:03:52.290Z</lastmod>
+    <lastmod>2025-01-20T06:33:55.649Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/Utility/Kaggle.html</loc>
-    <lastmod>2025-01-09T12:03:53.513Z</lastmod>
+    <lastmod>2025-01-20T06:33:56.620Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/notes/Utility/Package Manager and Virtual Environments.html</loc>
-    <lastmod>2025-01-09T12:03:54.614Z</lastmod>
+    <lastmod>2025-01-20T06:33:57.522Z</lastmod>
   </url>
   <url>
     <loc>https://AgastyaPatel.github.io/Blogs/projects.html</loc>
-    <lastmod>2025-01-09T12:03:55.737Z</lastmod>
+    <lastmod>2025-01-20T06:33:58.467Z</lastmod>
   </url>
 </urlset>
